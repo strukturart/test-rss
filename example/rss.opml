@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>feedolin</title>
+	</head>
+	<body>
+		<outline text="Podcast" title="Podcast">
+		
+			<outline type="rss" text="Das war morgen" title="Das war morgen" xmlUrl="https://www.swr.de/~podcast/swr2/hoerspiel/podcast-das-war-morgen-100.xml" htmlUrl=""/>
+			<outline type="rss" text="Echo der Zeit" title="Echo der Zeit" xmlUrl="https://www.srf.ch/feed/podcast/sd/28549e81-c453-4671-92ad-cb28796d06a8.xml" htmlUrl=""/>
+			<outline type="rss" text="SRF Focus" title="SRF Focus" xmlUrl="https://www.srf.ch/feed/podcast/sd/66d56e22-51cf-47a6-badd-7776ec4f6501.xml" htmlUrl=""/>
+			<outline type="rss" text="Bergpodcast" title="KaiOs Reddit" xmlUrl="https://bergpodcast.podigee.io/feed/mp3" htmlUrl=""/>
+			<outline type="rss" text="tech in the city" title="tech in the city" xmlUrl="https://podcast5705c6.podigee.io/feed/mp3" htmlUrl=""/>
+			<outline type="rss" text="Daniel Probst" title="Daniel Probst" xmlUrl="https://anchor.fm/s/5d19e3c8/podcast/rss" htmlUrl=""/>
+			<outline type="rss" text="Freistil" title="Freistil" xmlUrl="http://www.deutschlandfunk.de/podcast-freistil.2257.de.podcast.xml" htmlUrl=""/>
+			<outline type="rss" text="Umbruch" title="Umbruch" xmlUrl="https://feeds.br.de/umbruch-der-tech-podcast-von-b5-aktuell/feed.xml" htmlUrl=""/>
+			<outline type="rss" text="Breitengrad" title="Breitengrad" xmlUrl="https://feeds.br.de/breitengrad/feed.xml" htmlUrl=""/>
+			<outline type="rss" text="RBB" title="RBB" xmlUrl="https://www.rbb-online.de/rbbkultur/podcasts/hoerspiel-feed.xml/feed=podcast.xml" htmlUrl=""/>
+			<outline type="rss" text="Verbrechen" title="Verbrechen" xmlUrl="https://verbrechen.podigee.io/feed/mp3" htmlUrl=""/>
+			<outline type="rss" text="Radio Tatort" title="Radio Tatort" xmlUrl="https://feeds.br.de/ard-radio-tatort/feed.xml" htmlUrl=""/>
+			<outline type="rss" text="rts" title="rts" xmlUrl="https://www.rts.ch/la-1ere/programmes/on-va-vers-le-beau/podcast/?flux=rss" htmlUrl=""/>
+			<outline type="rss" text="history" title="history" xmlUrl="https://feeds.br.de/alles-geschichte-history-von-radiowissen/feed.xml" htmlUrl=""/>
+			<outline type="rss" text="Geschichte vor 100 Jahren" title="Geschichte vor 100 Jahren" xmlUrl="https://podcast8c6050.podigee.io/feed/mp3" htmlUrl=""/>
+			<outline type="rss" text="SRF Radio Krimi" title="SRF Radio Krimi" xmlUrl="https://www.srf.ch/feed/podcast/sd/5ba1cc91-64f2-4583-a72c-7d8194d7b163.xml" htmlUrl=""/>
+		</outline>
+
+		<outline text="Youtube" title="youtube">
+					<outline type="rss" text="Greschichtsfenster" title="Geschichtsfenster" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaPghPJUFIHrClDy03FpB0A" htmlUrl=""/>
+			<outline type="rss" text="Verbrechen" title="Verbrechen" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjMzlcG7THh8QEsP5pWFr2w" htmlUrl=""/>
+			<outline type="rss" text="Bookstream" title="Bookstream" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC07W8bIiwY-EXZ9wpPQZLPw" htmlUrl=""/>
+			<outline type="rss" text="Bookstream" title="WinterZeit" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC706WYJusWohe_AE_-f1FVg" htmlUrl=""/>
+			
+			
+		</outline>
+
+
+
+		<outline text="History" title="History">
+
+			<outline type="rss" text="SandRhoman Geschichte" title="SandRhoman Geschichte" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs7N_mVUPwT24L9cgChQDhQ" htmlUrl=""/>
+			<outline type="rss" text="Timeline" title="Timeline" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCluIQLAAsgUA-xNq-ZVZU6g" htmlUrl=""/>
+			<outline type="rss" text="W2g" title="W2g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsVWpmoRsNAWZb59b6Pt9Kg" htmlUrl=""/>
+			<outline type="rss" text="Zeitblende" title="Zeitblende" xmlUrl="https://www.srf.ch/feed/podcast/sd/c4d9aaaa-138e-446d-b273-a9f1ad8e3922.xml" htmlUrl=""/>
+
+
+		</outline>
+
+
+
+
+		
+		<outline text="Computer" title="Computer">
+			<outline type="rss" text="Deutschlandfunk" title="Deutschlandfunk" xmlUrl="https://www.deutschlandfunk.de/computer-und-kommunikation-104.xml" htmlUrl=""/>
+			<outline type="rss" text="Netzpolitik" title="Netzpolitik" xmlUrl="https://feeds.metaebene.me/lnp/mp3" htmlUrl=""/>
+			<outline type="rss" text="Quarks" title="Quarks" xmlUrl="https://www1.wdr.de/wdr/mediathek/audio/quarks-science-cops/science-cops-100.podcast" htmlUrl=""/>
+			<outline type="rss" text="geektalk" title="geektalk" xmlUrl="https://geektalk.ch/feed/podcast" htmlUrl=""/>
+		</outline>
+
+
+
+		<outline text="Blog" title="Blog">
+			<outline type="rss" text="bHaCkErSBLOG" title="bHaCkErSBLOG" xmlUrl="https://blog.bananahackers.net/read/feed/" htmlUrl=""/>
+			<outline type="rss" text="KaiOS.dev" title="KaiOS.dev" xmlUrl="https://kaios.dev/index.xml" htmlUrl=""/>
+			<outline type="rss" text="chickenkiller" title="chickenkiller" xmlUrl="https://far.chickenkiller.com/index.xml" htmlUrl=""/>
+			<outline type="rss" text="Bastian Allgeier" title="Bastian Allgeier" xmlUrl="https://bastianallgeier.com/feed" htmlUrl=""/>
+		</outline>
+
+		<outline text="News" title="News">
+			<outline type="rss" text="Siegel" title="Spiegel" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss" htmlUrl=""/>
+			<outline type="rss" text="T-Online" title="t-Online" xmlUrl="https://feeds.t-online.de/rss/ausland" htmlUrl=""/>
+			<outline type="rss" text="NZZ" title="NZZ" xmlUrl="http://www.nzz.ch/schweiz.rss" htmlUrl=""/>
+			<outline type="rss" text="SRF" title="SRF" xmlUrl="https://www.srf.ch/news/bnf/rss/1890" htmlUrl=""/>
+			<outline type="rss" text="SRF Int." title="SRF" xmlUrl="https://www.srf.ch/news/bnf/rss/1922" htmlUrl=""/>
+			<outline type="rss" text="Tagesschau" title="SRF" xmlUrl="https://www.tagesschau.de/xml/rss2/" htmlUrl=""/>
+			<outline type="rss" text="FAZ" title="FAZ" xmlUrl="https://www.faz.net/rss/aktuell/politik/" htmlUrl=""/>
+			<outline type="rss" text="GMX" title="GMX" xmlUrl="https://www.gmx.ch/feeds/rss/magazine/news/index.rss" htmlUrl=""/>
+		</outline>
+
+	</body>
+</opml>
+
